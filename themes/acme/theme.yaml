@@ -1,0 +1,18 @@
+name: Acme
+description: 'Simple bootswatch theme '
+author: 'Lylia Taleb'
+homepage: ''
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site Name
+      comment: The Global Website Name
+      default: Acme
+    site_description:
+      label: Site Description
+      comment: The Global Website Description
+      default: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus neque sequi possimus nihil maxime? Beatae quia sint minus nesciunt ut? In adipisci similique fugiat porro rem perspiciatis ipsa consequatur cum.
+
+
+

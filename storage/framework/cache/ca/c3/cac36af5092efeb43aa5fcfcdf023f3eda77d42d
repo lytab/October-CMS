@@ -1,0 +1,39 @@
+1549395556a:1:{s:11:"contact.htm";a:10:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:894:"title = "Contact"
+url = "/contact"
+layout = "default"
+description = "Contact US"
+is_hidden = 0
+==
+<h1>Contact Us</h1>
+<form>
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" class="form-control" name="name" id="name" aria-describedby="helpName" placeholder="">
+      <small id="helpName" class="form-text text-muted">Enter the Name</small>
+    </div>
+    <div class="form-group">
+        <label for="name">Email</label>
+        <input type="text" class="form-control" name="email" id="email" aria-describedby="helpEmail" placeholder="">
+        <small id="helpEmail" class="form-text text-muted">Enter the Email Address</small>
+      </div>
+      <div class="form-group">
+        <label for="name">Message</label>
+        <textarea  class="form-control" name="message" id="message"  placeholder=""></textarea>
+      </div>
+</form>";s:5:"mtime";i:1549385491;s:6:"markup";s:790:"<h1>Contact Us</h1>
+<form>
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" class="form-control" name="name" id="name" aria-describedby="helpName" placeholder="">
+      <small id="helpName" class="form-text text-muted">Enter the Name</small>
+    </div>
+    <div class="form-group">
+        <label for="name">Email</label>
+        <input type="text" class="form-control" name="email" id="email" aria-describedby="helpEmail" placeholder="">
+        <small id="helpEmail" class="form-text text-muted">Enter the Email Address</small>
+      </div>
+      <div class="form-group">
+        <label for="name">Message</label>
+        <textarea  class="form-control" name="message" id="message"  placeholder=""></textarea>
+      </div>
+</form>";s:4:"code";N;s:5:"title";s:7:"Contact";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:11:"description";s:10:"Contact US";s:9:"is_hidden";s:1:"0";}}
